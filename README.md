@@ -4,6 +4,8 @@ Just one click and the time is changed. If you want to PvP at night on a server 
 
 ## Demo
 
+<video src="https://github.com/chirag-gamer/Time-Changer-Mod/raw/main/demo.mp4" controls autoplay muted loop playsinline width="640"></video>
+
 [Watch the video demo](https://github.com/chirag-gamer/Time-Changer-Mod/blob/main/demo.mp4)
 
 ## What it does
