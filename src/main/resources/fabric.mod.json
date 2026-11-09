@@ -1,0 +1,25 @@
+{
+    "schemaVersion": 1,
+    "id": "${id}",
+    "version": "${version}",
+    "name": "${name}",
+    "description": "Press O to toggle client-side day and night.",
+    "authors": [
+        "chirag-gamer"
+    ],
+    "license": "MIT",
+    "environment": "client",
+    "entrypoints": {
+        "client": [
+            "com.timechanger.TimeChangerClient"
+        ]
+    },
+    "mixins": [
+        "timechanger.mixins.json"
+    ],
+    "depends": {
+        "fabricloader": ">=${loader}",
+        "minecraft": "${minecraft}",
+        "fabric-api": "*"
+    }
+}

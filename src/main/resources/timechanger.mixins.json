@@ -1,0 +1,9 @@
+{
+    "required": true,
+    "package": "com.timechanger.mixin",
+    "compatibilityLevel": "${java}",
+    "client": ${mixinList},
+    "injectors": {
+        "defaultRequire": 1
+    }
+}

@@ -1,0 +1,35 @@
+# docs are local planning only
+/decisions.md
+/spec.md
+/plan.md
+
+# planning and tooling
+/.swarm/
+
+# gradle run output
+/.gradle/
+/build/
+**/build/
+**/run/
+**/.gradle/
+
+# idea and editor
+/.idea/
+*.iml
+*.ipr
+*.iws
+*.launch
+.classpath
+.project
+.settings/
+bin/
+out/
+
+# os and logs
+.DS_Store
+Thumbs.db
+*.log
+logs/
+
+# minecraft local data
+*.minecraft/
